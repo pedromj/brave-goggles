@@ -1,0 +1,6 @@
+! name: IETF
+! description: Rerank results to boost content on IETF drfts and RFCs.
+! public: true
+! author: PedroMJ
+
+$boost=1,site=ietf.org
